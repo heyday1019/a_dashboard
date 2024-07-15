@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 # Title of the dashboard
 st.title('Sample Streamlit Dashboard')
-
+st.title('WEllcome Nick')
 # Sidebar for user input
 st.sidebar.header('User Input Parameters')
 n = st.sidebar.slider('Number of data points', 10, 100, 50)
